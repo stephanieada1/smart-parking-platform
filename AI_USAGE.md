@@ -14,4 +14,4 @@ Prompts Used
 “can you look over what i have and help me make sure everything is organized correctly and makes sense?”
 
 What I Kept vs. What I Changed
-I used the AI-generated suggestions as a starting point for organizing and developing my project documentation. I kept ideas and wording that accurately reflected my project requirements and revised the content where necessary to fit my project decisions, research, and understanding of the assignment. I reviewed the final documentation before submitting it.
+I used the AI-generated suggestions as a starting point to organize and develop my project documentation. I kept ideas and wording that accurately reflected my project requirements and revised the content where necessary to fit my project decisions, research, and understanding of the assignment. I reviewed the final documentation before submitting it.
