@@ -1,5 +1,6 @@
 AI Usage Disclosure
 
+## Homework 1
 
 AI Tool Used
 
@@ -23,3 +24,24 @@ Prompts Used
 What I Kept vs. What I Changed
 
 I used the AI-generated suggestions as a starting point to organize and develop my project documentation. I kept ideas and wording that accurately reflected my project requirements and revised the content where necessary to fit my project decisions, research, and understanding of the assignment. I reviewed the final documentation before submitting it.
+
+
+## Homework 2
+
+How AI Was Used
+
+I used ChatGPT for learning, studying, and exploring how a Work Breakdown Structure and Gantt chart are created for a software project. I also used it to help organize my ideas for the WBS, draft a project timeline, and understand how to create and format the Gantt chart in Excel.
+
+
+Prompts Used
+
+“hey, can you explain what a WBS is and how i’m supposed to make it at least 3 levels deep for my smart parking platform?”
+“chat can you help me organize the different parts of my smart parking platform into a WBS based on the requirements i already have?”
+“help me create a draft timeline based on my WBS and make sure the different phases make sense?”
+“how do i turn my project timeline into a gantt chart in excel?”
+“chat, walk me through formatting the gantt chart and making sure everything is organized correctly?”
+
+
+What I Kept vs. What I Changed
+
+I used the AI suggestions to help organize the WBS and develop the initial project timeline. I kept the ideas that were consistent with the existing Smart Parking Platform requirements and adjusted the organization and project schedule as needed. I also followed the Excel guidance to create and format the final editable Gantt chart.
