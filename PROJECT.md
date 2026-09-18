@@ -2,8 +2,8 @@
 ### Semester Project
 
 **Company:** WE ARE Software Corp.  
-**Document Version:** 1.0  
-**Last Updated:** September 10, 2026
+**Document Version:** 2.0  
+**Last Updated:** September 17, 2026
 
 ---
 
@@ -12,7 +12,8 @@
 1. [Research: Existing Software Landscape](#1-research-existing-software-landscape)
 2. [Vision and Scope](#2-vision-and-scope)
 3. [Software Requirements Specification (SRS)](#3-software-requirements-specification-srs)
-
+4. [Work Breakdown Structure (WBS)](#4-work-breakdown-structure-wbs)
+5. [Project Timeline and Gantt Chart](#5-project-timeline-and-gantt-chart)
 ---
 
 ## 1. Research: Existing Software Landscape
@@ -234,5 +235,74 @@ The platform should provide a user-friendly experience across supported web and 
 This SRS represents the initial set of requirements and use cases for the Smart Parking Platform. Additional requirements, exceptions, business rules, and detailed use case flows will be identified through stakeholder analysis and requirements elicitation as the project progresses.
 
 ---
+
+
+## 4. Work Breakdown Structure (WBS)
+
+The Work Breakdown Structure (WBS) divides the Smart Parking Platform project into major areas of work and smaller tasks required to complete the system. The structure includes project planning, application development, system integrations, testing, and deployment activities.
+
+### 1.0 Smart Parking Platform
+
+#### 1.1 Project Planning and Requirements
+- 1.1.1 Identify project stakeholders
+- 1.1.2 Gather and document system requirements
+- 1.1.3 Define project scope and objectives
+- 1.1.4 Develop project schedule and milestones
+
+#### 1.2 User Application Development
+- 1.2.1 Develop user registration and authentication
+- 1.2.2 Develop parking search and interactive map
+- 1.2.3 Develop parking reservation functionality
+- 1.2.4 Develop digital payment functionality
+- 1.2.5 Develop reservation history and receipts
+- 1.2.6 Develop notifications and alerts
+
+#### 1.3 Parking Operator System
+- 1.3.1 Develop parking facility management tools
+- 1.3.2 Develop occupancy monitoring features
+- 1.3.3 Develop pricing management features
+- 1.3.4 Develop reporting and analytics dashboard
+
+#### 1.4 Backend and System Integrations
+- 1.4.1 Develop backend database and APIs
+- 1.4.2 Integrate real-time parking availability data
+- 1.4.3 Integrate mapping and navigation services
+- 1.4.4 Integrate third-party payment services
+- 1.4.5 Implement security and privacy controls
+
+#### 1.5 Testing and Quality Assurance
+- 1.5.1 Conduct functional testing
+- 1.5.2 Conduct integration testing
+- 1.5.3 Conduct security and performance testing
+- 1.5.4 Conduct user acceptance testing
+- 1.5.5 Resolve identified defects
+
+#### 1.6 Deployment and Project Completion
+- 1.6.1 Prepare production environment
+- 1.6.2 Deploy web and mobile applications
+- 1.6.3 Complete final system verification
+- 1.6.4 Prepare project documentation
+- 1.6.5 Complete project handoff and closure
+
+## 5. Project Timeline and Gantt Chart
+
+The following draft timeline outlines the planned sequence of activities for the Smart Parking Platform. The schedule is based on the major work areas identified in the Work Breakdown Structure and may be adjusted as project requirements and development needs change throughout the semester.
+
+### Draft Project Timeline
+
+| Project Phase | Planned Duration |
+| --- | --- |
+| Project Planning and Requirements | Weeks 1–2 |
+| User Application Development | Weeks 3–6 |
+| Parking Operator System | Weeks 4–7 |
+| Backend and System Integrations | Weeks 3–8 |
+| Testing and Quality Assurance | Weeks 7–10 |
+| Deployment and Project Completion | Weeks 11–12 |
+
+### Gantt Chart
+
+![Smart Parking Platform Project Timeline](smart-parking-gantt-chart.png)
+
+*Figure 1. Smart Parking Platform Project Timeline.*
 
 **WE ARE Software Corp. | Smart Parking Platform | Semester Project**
