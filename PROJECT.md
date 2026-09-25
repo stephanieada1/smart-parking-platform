@@ -2,8 +2,8 @@
 ### Semester Project
 
 **Company:** WE ARE Software Corp.  
-**Document Version:** 2.0  
-**Last Updated:** September 17, 2026
+**Document Version:** 3.0  
+**Last Updated:** September 24, 2026
 
 ---
 
@@ -304,5 +304,43 @@ The following draft timeline outlines the planned sequence of activities for the
 ![Smart Parking Platform Project Timeline](smart-parking-gantt-chart.png)
 
 *Figure 1. Smart Parking Platform Project Timeline.*
+
+## 6. Product Backlog and Sprint 1
+
+### Product Backlog
+
+The product backlog for the Smart Parking Platform was created and organized in Trello. The backlog contains 45 items across four major categories: login, user and operator interface, backend processes, and reporting.
+
+| Backlog Category | Number of Items |
+|---|---:|
+| Login | 5 |
+| UI - Operator and User | 15 |
+| Backend - Operator and User | 15 |
+| Reporting - Operator and User | 10 |
+| **Total** | **45** |
+
+### Sprint 1 Backlog
+
+Sprint 1 focuses on establishing the operator backend and core functionality needed to support the Smart Parking Platform. Seven items from the product backlog were prioritized for the first sprint:
+
+1. Create User Account
+2. User and Operator Login
+3. Authenticate User and Operator Login
+4. Update Parking Facility Information
+5. Update Parking Pricing
+6. Track Parking Occupancy
+7. Retrieve Real-Time Parking Availability
+
+### Trello Product Backlog
+
+![Smart Parking Platform Product Backlog](Screenshot%202026-09-24%20213113.png)
+
+*Figure 2. Smart Parking Platform product backlog organized into login, user and operator UI, backend processes, and reporting categories.*
+
+### Sprint 1 Trello Board
+
+![Sprint 1 Operator Backend](Screenshot%202026-09-24%20213138.png)
+
+*Figure 3. Sprint 1 backlog focused on operator backend and core platform functionality.*
 
 **WE ARE Software Corp. | Smart Parking Platform | Semester Project**
