@@ -2,8 +2,8 @@
 ### Semester Project
 
 **Company:** WE ARE Software Corp.  
-**Document Version:** 3.0  
-**Last Updated:** September 24, 2026
+**Document Version:** 4.0  
+**Last Updated:** October 1, 2026
 
 ---
 
@@ -14,6 +14,9 @@
 3. [Software Requirements Specification (SRS)](#3-software-requirements-specification-srs)
 4. [Work Breakdown Structure (WBS)](#4-work-breakdown-structure-wbs)
 5. [Project Timeline and Gantt Chart](#5-project-timeline-and-gantt-chart)
+6. [Product Backlog and Sprint 1](#6-product-backlog-and-sprint-1)
+7. [Risk Management](#7-risk-management)
+8. [Communication Plan](#8-communication-plan)
 ---
 
 ## 1. Research: Existing Software Landscape
@@ -342,5 +345,73 @@ Sprint 1 focuses on establishing the operator backend and core functionality nee
 ![Sprint 1 Operator Backend](Screenshot%202026-09-24%20213138.png)
 
 *Figure 3. Sprint 1 backlog focused on operator backend and core platform functionality.*
+
+## 7. Risk Management
+
+Risk management is important to the Smart Parking Platform because technical, schedule, financial, and people-related issues could affect the successful completion of the project. The following risks have been identified so they can be monitored and addressed throughout the project lifecycle.
+
+### Risk Identification
+
+#### Technical Risks
+
+1. Real-time parking availability data may be inaccurate or delayed.
+2. Third-party mapping and navigation services may experience outages or integration failures.
+3. Payment processing integration may fail or experience security vulnerabilities.
+4. The platform may experience performance or scalability issues during periods of high user activity.
+
+#### Schedule Risks
+
+1. Third-party API integration may take longer than originally planned.
+2. Delays in backend development may prevent other development teams from completing dependent tasks on schedule.
+3. Testing may identify major defects that require additional development time.
+4. Changes to project requirements during development may cause scheduled activities to be delayed.
+
+#### Financial Risks
+
+1. Third-party mapping or navigation services may introduce unexpected usage costs.
+2. Payment processing services may charge higher transaction or integration fees than expected.
+3. Additional cloud infrastructure may be required if platform usage exceeds initial estimates.
+4. Unexpected development or testing needs may increase overall project costs.
+
+#### People Risks
+
+1. Key team members may become unavailable during important development activities.
+2. Poor communication between development teams may cause misunderstandings or duplicated work.
+3. Team members may lack experience with specific third-party APIs or technologies required by the platform.
+4. Conflicting priorities or workload between teams may delay completion of assigned tasks.
+
+### Risk Register
+
+The following risk register documents key risks that may affect the Smart Parking Platform. Each risk is evaluated based on its probability and impact, assigned to an appropriate owner, and given a response strategy for managing the risk.
+
+| ID | Risk Description | Probability | Impact | Owner | Response Strategy | Status / Notes |
+|---|---|---|---|---|---|---|
+| R1 | Real-time parking availability data may be inaccurate or delayed. | Medium | High | Backend/API Team | Validate incoming parking data and implement error handling and backup procedures. | Open - Monitor data accuracy |
+| R2 | Third-party mapping and navigation services may experience outages or integration failures. | Medium | High | Mapping/Location Team | Test integrations regularly and prepare alternative service options if necessary. | Open - Monitor third-party service |
+| R3 | Payment processing integration may fail or experience security vulnerabilities. | Low | High | Payment Integration Team | Use secure payment APIs, perform security testing, and monitor payment failures. | Open - Security testing required |
+| R4 | The platform may experience performance or scalability issues during periods of high user activity. | Medium | High | Backend/API Team | Conduct performance testing and scale cloud resources based on system demand. | Open - Performance testing planned |
+| R5 | Third-party API integration may take longer than originally planned. | Medium | Medium | Project Manager | Track integration progress and adjust development priorities if delays occur. | Open - Monitor schedule |
+| R6 | Delays in backend development may prevent other teams from completing dependent tasks on schedule. | Medium | High | Backend/API Team | Prioritize critical backend services and communicate delays to dependent teams early. | Open - Monitor dependencies |
+| R7 | Testing may identify major defects that require additional development time. | Medium | Medium | QA/Testing Team | Begin testing early and prioritize critical defects for immediate resolution. | Open - Testing scheduled |
+| R8 | Third-party services may introduce unexpected usage or transaction costs. | Medium | Medium | Finance/Billing Team | Monitor service usage and costs and evaluate alternative providers when necessary. | Open - Monitor expenses |
+| R9 | Key team members may become unavailable during important development activities. | Low | High | Project Manager | Cross-train team members and document important project knowledge and responsibilities. | Open - Monitor availability |
+| R10 | Poor communication between development teams may cause misunderstandings or duplicated work. | Medium | Medium | Project Manager | Hold regular cross-team meetings and maintain shared project documentation. | Open - Communication plan established |
+
+## 8. Communication Plan
+
+The communication plan defines how project teams and stakeholders will share updates, coordinate work, report issues, and monitor the progress of the Smart Parking Platform. Regular communication will help identify blockers early and keep teams aligned throughout the project.
+
+| Team / Stakeholder | Meeting Cadence | Communication Method | Reporting / Information Shared |
+|---|---|---|---|
+| Project Management Team | Weekly | Project status meeting | Overall project progress, schedule updates, risks, and major decisions |
+| Mobile Development Team | Daily | Stand-up meeting | Current tasks, completed work, blockers, and upcoming development activities |
+| Web Development Team | Daily | Stand-up meeting | Current tasks, completed work, blockers, and UI development progress |
+| Backend/API Team | Daily | Stand-up meeting | API development, database progress, integrations, and technical blockers |
+| Mapping/Location Team | Twice Weekly | Team meeting | Mapping integration, navigation services, and real-time location issues |
+| Payment Integration Team | Twice Weekly | Team meeting | Payment integration progress, transaction issues, and security concerns |
+| QA/Testing Team | Twice Weekly | Testing status meeting | Test results, identified defects, resolved issues, and testing progress |
+| Parking Facility Operators | Weekly | Stakeholder meeting / email update | Operator requirements, parking availability, pricing, and system feedback |
+| Finance/Billing Team | Weekly | Email report / status meeting | Payment activity, transaction issues, service costs, and billing concerns |
+| Project Stakeholders | Weekly | Project update report / video | Project progress, completed milestones, current risks, and upcoming work |
 
 **WE ARE Software Corp. | Smart Parking Platform | Semester Project**
