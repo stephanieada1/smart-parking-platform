@@ -76,3 +76,26 @@ I used ChatGPT to help me understand the product backlog and Sprint 1 requiremen
 ### What I Kept vs. What I Changed
 
 I used the AI suggestions to help organize and develop the backlog items based on the existing requirements for my Smart Parking Platform. I reviewed the items while creating the Trello board and used the suggested Sprint 1 structure to prioritize the operator backend and core platform functionality.
+
+## Homework 4
+
+### How AI Was Used
+
+I used ChatGPT to help me understand the risk management and communication plan requirements for the Smart Parking Platform. I also used it to help identify project-specific risks, organize the risk register, and develop a communication plan for the project teams and stakeholders.
+
+### Prompts Used
+
+“explain what homework 4 is asking me to do for risk management and the communication plan?”
+
+“help me identify technical, schedule, financial, and people risks for my smart parking platform?”
+
+“organize 10 of the risks into a risk register with probability, impact, owner, response strategy, and status?”
+
+“create a communication plan showing the meeting cadence and reporting methods for each project team?”
+
+“can you make sure the risks and communication plan stay consistent with the smart parking platform i’ve already created?”
+
+### What I Kept vs. What I Changed
+
+I used the AI suggestions to help identify and organize risks that were relevant to the existing Smart Parking Platform. I also used the suggested structure for the risk register and communication plan and reviewed the information to make sure it remained consistent with the teams, requirements, and integrations already established in the project.
+
