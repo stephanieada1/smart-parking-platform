@@ -95,6 +95,30 @@ I used ChatGPT to help me understand the risk management and communication plan 
 
 “can you make sure the risks and communication plan stay consistent with the smart parking platform i’ve already created?”
 
+## Homework 5
+
+### How AI Was Used
+
+I used ChatGPT to help me understand the resource planning, budgeting, and RACI matrix requirements for the Smart Parking Platform. I also used it to help develop fictional team roles, estimate resource allocations and project costs, organize the monthly budgeted cash flow, and assign project responsibilities.
+
+### Prompts Used
+
+The following are examples of the requests I made while completing Homework 5:
+
+"can you help me understand the roles and resources, cost plan, and RACI matrix requirements for homework 5?"
+  
+"help me create fictional employees with skill levels, hourly rates, and allocation percentages for my smart parking platform?"
+  
+"can you help me organize a bottom-up project budget using labor, infrastructure, software, and other expenses?"
+  
+"how should i distribute the estimated project costs across three months for the cash flow table?"
+  
+"help me create a RACI matrix using the same nine employees and their project responsibilities?"
+
+### What I Kept vs. What I Changed
+
+I used the AI-generated suggestions to develop the fictional resource allocation table, estimated project budget, monthly cash-flow plan, and RACI matrix. I reviewed the information to ensure the roles, responsibilities, and project activities remained consistent with the Smart Parking Platform requirements established in previous assignments.
+
 ### What I Kept vs. What I Changed
 
 I used the AI suggestions to help identify and organize risks that were relevant to the existing Smart Parking Platform. I also used the suggested structure for the risk register and communication plan and reviewed the information to make sure it remained consistent with the teams, requirements, and integrations already established in the project.
