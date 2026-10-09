@@ -2,8 +2,8 @@
 ### Semester Project
 
 **Company:** WE ARE Software Corp.  
-**Document Version:** 4.0  
-**Last Updated:** October 1, 2026
+**Document Version:** 5.0  
+**Last Updated:** October 8, 2026
 
 ---
 
@@ -17,6 +17,9 @@
 6. [Product Backlog and Sprint 1](#6-product-backlog-and-sprint-1)
 7. [Risk Management](#7-risk-management)
 8. [Communication Plan](#8-communication-plan)
+9. [Roles and Resources](#9-roles-and-resources)
+10. [Resource and Cost Plan](#10-resource-and-cost-plan)
+11. [RACI Matrix](#11-raci-matrix)
 ---
 
 ## 1. Research: Existing Software Landscape
@@ -413,5 +416,135 @@ The communication plan defines how project teams and stakeholders will share upd
 | Parking Facility Operators | Weekly | Stakeholder meeting / email update | Operator requirements, parking availability, pricing, and system feedback |
 | Finance/Billing Team | Weekly | Email report / status meeting | Payment activity, transaction issues, service costs, and billing concerns |
 | Project Stakeholders | Weekly | Project update report / video | Project progress, completed milestones, current risks, and upcoming work |
+
+## 9. Roles and Resources
+
+The Smart Parking Platform project will be supported by a fictional team of nine professionals from WE ARE Software Corp. Each team member is assigned a specific role based on the project's development requirements. Skill levels and resource allocations are estimated for the 12-week project timeline.
+
+### Project Resource Allocation
+
+| Role | Fictional Name | Skill Level | Allocation (FTE %) | Estimated Hours | Hourly Rate | Estimated Cost |
+|---|---|---|---|---|---|---|
+| Project Manager | Jordan Mitchell | Senior | 50% | 240 | $65 | $15,600 |
+| Mobile Developer | Taylor Brooks | Mid-Level | 75% | 360 | $55 | $19,800 |
+| Web Developer | Alex Morgan | Mid-Level | 75% | 360 | $50 | $18,000 |
+| Backend/API Developer | Cameron Davis | Senior | 100% | 480 | $70 | $33,600 |
+| Mapping/Location Specialist | Riley Parker | Mid-Level | 50% | 240 | $55 | $13,200 |
+| Payment Integration Specialist | Casey Williams | Senior | 50% | 240 | $65 | $15,600 |
+| QA/Testing Engineer | Jamie Carter | Mid-Level | 50% | 240 | $45 | $10,800 |
+| UI/UX Designer | Avery Thompson | Mid-Level | 50% | 240 | $50 | $12,000 |
+| Database/Cloud Engineer | Morgan Lee | Senior | 50% | 240 | $65 | $15,600 |
+| **TOTAL** | | | | **2,640** | | **$154,200** |
+
+### Resource Planning Assumptions
+
+- The project duration is 12 weeks, equivalent to approximately three months.
+  
+- A full-time employee is assumed to work 40 hours per week, totaling 480 hours over the project.
+  
+- Resource allocations represent the percentage of each employee's working time dedicated to the Smart Parking Platform.
+  
+- Hourly rates are fictional planning estimates based on role responsibilities and assumed skill levels.
+  
+- The project manager coordinates schedules, resources, risks, and stakeholder communication.
+  
+- Development specialists are responsible for implementing the mobile, web, backend, mapping, payment, and database components.
+  
+- The UI/UX designer supports the user and operator interfaces, while the QA engineer oversees testing and quality assurance.
+
+## 10. Resource and Cost Plan
+
+The Smart Parking Platform will use a bottom-up budgeting approach to estimate the total project cost. This approach calculates the costs of individual resources, including labor, cloud infrastructure, third-party services, software tools, and contingency reserves.
+
+The budget is based on the project's 12-week development schedule and the resource allocations established in Section 9. All amounts are fictional estimates for planning purposes.
+
+### Project Cost Breakdown
+
+| Item | Category | Quantity / Usage | Unit Cost | Duration | Total Cost | Notes |
+|---|---|---|---|---|---|---|
+| Project Team Labor | Labor | 2,640 hours | Varies by role | 3 months | $154,200 | Based on resource allocation table |
+| Cloud Hosting and Database | Infrastructure | 1 service package/month | $500/month | 3 months | $1,500 | Application hosting and database services |
+| Mapping and Navigation APIs | Third-Party Services | 1 service package/month | $400/month | 3 months | $1,200 | Maps, directions, and location services |
+| Payment Processing Integration | Third-Party Services | 1 service package/month | $250/month | 3 months | $750 | Payment gateway integration and testing |
+| Development Software and Tools | Software | One-time purchase | $1,200 | One-time | $1,200 | Development and collaboration tools |
+| Testing and Security Tools | Quality Assurance | One-time purchase | $900 | One-time | $900 | Testing and security validation tools |
+| **Subtotal** | | | | | **$159,750** | Before contingency |
+| Contingency Reserve | Reserve | 10% of subtotal | | | $15,975 | Allowance for unexpected project expenses |
+| **TOTAL PROJECT BUDGET** | | | | | **$175,725** | Estimated 12-week project cost |
+
+### Budget Assumptions
+
+- Labor costs are based on the nine fictional employees identified in Section 9.
+  
+- Cloud hosting, mapping services, and payment integration costs are estimated as recurring monthly expenses.
+  
+- Development software and testing tools are treated as one-time expenses.
+  
+- A 10% contingency reserve is included to account for unexpected costs.
+  
+- The budget represents planned project expenses rather than actual spending.
+
+### Monthly Budgeted Cash Flow
+
+The following cash-flow plan distributes the estimated project expenses across three months. Labor and recurring service costs are spread evenly across the project, while one-time software and testing expenses are allocated to the first month. The contingency reserve is budgeted in the final month.
+
+| Expense Category | Month 1 | Month 2 | Month 3 | Total |
+|---|---|---|---|---|
+| Project Team Labor | $51,400 | $51,400 | $51,400 | $154,200 |
+| Cloud Hosting and Database | $500 | $500 | $500 | $1,500 |
+| Mapping and Navigation APIs | $400 | $400 | $400 | $1,200 |
+| Payment Processing Integration | $250 | $250 | $250 | $750 |
+| Development Software and Tools | $1,200 | $0 | $0 | $1,200 |
+| Testing and Security Tools | $900 | $0 | $0 | $900 |
+| Contingency Reserve | $0 | $0 | $15,975 | $15,975 |
+| **TOTAL MONTHLY BUDGET** | **$54,650** | **$52,550** | **$68,525** | **$175,725** |
+
+The monthly budget is highest in Month 3 because the contingency reserve is allocated to that period. The planned spending may be adjusted if project requirements or resource needs change.
+
+## 11. RACI Matrix
+
+The RACI matrix defines the roles and responsibilities of the Smart Parking Platform project team. It identifies who is Responsible, Accountable, Consulted, and Informed for major project activities.
+
+The matrix uses the nine fictional team members established in the Roles and Resources section.
+
+### RACI Role Abbreviations
+
+| Abbreviation | Role | Assigned Team Member |
+|---|---|---|
+| PM | Project Manager | Jordan Mitchell |
+| MOB | Mobile Developer | Taylor Brooks |
+| WEB | Web Developer | Alex Morgan |
+| BE | Backend/API Developer | Cameron Davis |
+| MAP | Mapping/Location Specialist | Riley Parker |
+| PAY | Payment Integration Specialist | Casey Williams |
+| QA | QA/Testing Engineer | Jamie Carter |
+| UX | UI/UX Designer | Avery Thompson |
+| DB | Database/Cloud Engineer | Morgan Lee |
+
+### Project RACI Matrix
+
+| Project Activity | PM | MOB | WEB | BE | MAP | PAY | QA | UX | DB |
+|---|---|---|---|---|---|---|---|---|---|
+| Define project requirements and scope | A/R | C | C | C | I | I | C | C | I |
+| Develop project schedule and budget | A/R | I | I | C | I | I | C | I | C |
+| Design user and operator interfaces | A | C | C | C | I | I | C | R | I |
+| Develop mobile application | A | R | C | C | C | I | C | C | I |
+| Develop web application | A | C | R | C | I | I | C | C | I |
+| Develop backend APIs | A | C | C | R | C | C | C | I | C |
+| Develop database and cloud infrastructure | A | I | I | C | I | I | C | I | R |
+| Integrate mapping and navigation services | A | C | C | C | R | I | C | C | I |
+| Integrate payment processing services | A | C | C | C | I | R | C | I | C |
+| Implement parking availability and occupancy tracking | A | C | C | R | C | I | C | I | C |
+| Conduct system testing and quality assurance | A | C | C | C | C | C | R | C | C |
+| Deploy the completed platform | A | I | I | C | I | I | C | I | R |
+| Prepare final documentation and project handoff | A/R | C | C | C | I | I | C | C | C |
+
+### RACI Matrix Assumptions
+
+- Each project activity has one accountable role to ensure clear ownership.
+- Responsible team members perform the work required to complete their assigned activities.
+- Consulted team members provide technical expertise, feedback, or support.
+- Informed team members receive relevant project updates and decisions.
+- The Project Manager oversees overall project delivery, while specialized team members lead their respective development activities.
 
 **WE ARE Software Corp. | Smart Parking Platform | Semester Project**
