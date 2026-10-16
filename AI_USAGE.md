@@ -103,8 +103,6 @@ I used ChatGPT to help me understand the resource planning, budgeting, and RACI 
 
 ### Prompts Used
 
-The following are examples of the requests I made while completing Homework 5:
-
 "can you help me understand the roles and resources, cost plan, and RACI matrix requirements for homework 5?"
   
 "help me create fictional employees with skill levels, hourly rates, and allocation percentages for my smart parking platform?"
@@ -123,3 +121,26 @@ I used the AI-generated suggestions to develop the fictional resource allocation
 
 I used the AI suggestions to help identify and organize risks that were relevant to the existing Smart Parking Platform. I also used the suggested structure for the risk register and communication plan and reviewed the information to make sure it remained consistent with the teams, requirements, and integrations already established in the project.
 
+## Homework 6
+
+### AI Tool Used
+
+ChatGPT
+
+### How AI Was Used
+
+I used ChatGPT to review my existing Smart Parking Platform documentation and identify areas for improvement. I also used it to help expand my software requirements, add relevant use cases, and update my work breakdown structure while keeping the rest of my project consistent.
+
+### Prompts Used
+
+"hey chat, this week's homework is basically reviewing everything i've already done. uhh..i need ideas on how i can improve or update my work? 😭"
+
+"im looking at my project so far, i'm gonna paste a few lines from my sections. what sections actually need improvement and which ones are already good?"
+
+"i already have 18 use cases, but i want to make my srs more detailed without having to rewrite everything. what should i add?"
+
+"what additional tasks should go in my wbs now that i've added more requirements to the project?"
+
+### What I Kept vs. What I Changed
+
+I kept the original project scope, timeline, Gantt chart, Trello backlog, risk register, communication plan, resource plan, budget, and RACI matrix. I expanded the SRS by adding ten functional requirements and five use cases, bringing the total to 23 use cases. I also updated the WBS with ten additional tasks to reflect the new requirements. I reviewed the remaining sections and kept the existing information where no changes were necessary.
