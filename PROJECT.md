@@ -2,8 +2,8 @@
 ### Semester Project
 
 **Company:** WE ARE Software Corp.  
-**Document Version:** 5.0  
-**Last Updated:** October 8, 2026
+**Document Version:** 6.0  
+**Last Updated:** October 15, 2026
 
 ---
 
@@ -156,6 +156,21 @@ The Smart Parking Platform shall:
 - Provide parking operators with reports and analytics about facility utilization.
 - Allow authorized administrators to manage platform users and system information.
 
+### Additional Functional Requirements
+
+The Smart Parking Platform shall:
+
+1. Allow drivers to filter parking locations by price, distance, and availability.
+2. Prevent drivers from reserving parking spaces that are already reserved or unavailable.
+3. Display the total estimated parking cost before a driver confirms a reservation.
+4. Allow drivers to cancel eligible reservations according to the parking facility's cancellation policy.
+5. Automatically update available parking inventory when a reservation is created, canceled, or completed.
+6. Allow parking operators to configure parking capacity and operating hours.
+7. Notify drivers when their parking reservation is approaching its expiration time.
+8. Allow authorized parking operators to view active reservations at their facilities.
+9. Record payment transaction statuses, including successful, pending, and failed payments.
+10. Allow administrators to review system activity and investigate reported issues.
+
 ### Non-Functional Requirements
 
 The platform should provide a user-friendly experience across supported web and mobile devices. User account and payment information must be protected using appropriate security measures. The system should provide reliable access to parking information and should be designed to support increased numbers of users and participating parking facilities as the platform grows. The system must also account for applicable privacy requirements, security standards, and local regulations.
@@ -236,9 +251,39 @@ The platform should provide a user-friendly experience across supported web and 
 **Primary Actor:** Parking Facility Operator  
 **Description:** An authorized parking operator reviews or updates applicable parking pricing information for a participating facility.
 
+### Additional Use Cases
+
+**UC-19: Filter Parking Search Results**
+
+- **Primary Actor:** Driver
+- **Description:** A driver filters available parking locations based on price, distance, and availability to identify a suitable parking option.
+
+**UC-20: Cancel Parking Reservation**
+
+- **Primary Actor:** Driver
+- **Description:** A driver requests cancellation of an existing reservation. The system verifies cancellation eligibility, updates the reservation status, and releases the parking space when applicable.
+
+**UC-21: Manage Parking Capacity**
+
+- **Primary Actor:** Parking Facility Operator
+- **Description:** An authorized operator updates parking capacity and operating hours for a participating facility. The system uses this information when determining parking availability.
+
+**UC-22: View Active Facility Reservations**
+
+- **Primary Actor:** Parking Facility Operator
+- **Description:** A parking operator views active reservations associated with their facility to monitor expected parking activity and space usage.
+
+**UC-23: Review Payment Transaction Status**
+
+- **Primary Actor:** System Administrator
+- **Description:** An authorized administrator reviews payment transaction statuses to identify failed, pending, or completed payments and investigate reported transaction issues.
+
 ### SRS Status
 
-This SRS represents the initial set of requirements and use cases for the Smart Parking Platform. Additional requirements, exceptions, business rules, and detailed use case flows will be identified through stakeholder analysis and requirements elicitation as the project progresses.
+The Smart Parking Platform SRS has been reviewed and expanded during Homework 6. The updated specification includes 23 use cases and additional functional requirements addressing parking search filters, reservation cancellation, parking capacity management, payment tracking, and real-time inventory updates.
+
+These additions strengthen the requirements for both drivers and parking operators while improving consistency with the platform's planned development activities. Detailed exception handling, acceptance criteria, and implementation decisions will continue to be refined as the project progresses.
+
 
 ---
 
@@ -262,12 +307,17 @@ The Work Breakdown Structure (WBS) divides the Smart Parking Platform project in
 - 1.2.4 Develop digital payment functionality
 - 1.2.5 Develop reservation history and receipts
 - 1.2.6 Develop notifications and alerts
+- 1.2.7 Develop parking search filters
+- 1.2.8 Develop reservation cancellation functionality
+- 1.2.9 Display estimated parking costs before reservation confirmation
 
 #### 1.3 Parking Operator System
 - 1.3.1 Develop parking facility management tools
 - 1.3.2 Develop occupancy monitoring features
 - 1.3.3 Develop pricing management features
 - 1.3.4 Develop reporting and analytics dashboard
+- 1.3.5 Develop parking capacity and operating hours management
+- 1.3.6 Develop active reservation monitoring
 
 #### 1.4 Backend and System Integrations
 - 1.4.1 Develop backend database and APIs
@@ -275,6 +325,9 @@ The Work Breakdown Structure (WBS) divides the Smart Parking Platform project in
 - 1.4.3 Integrate mapping and navigation services
 - 1.4.4 Integrate third-party payment services
 - 1.4.5 Implement security and privacy controls
+- 1.4.6 Implement reservation conflict prevention
+- 1.4.7 Implement automatic parking inventory updates
+- 1.4.8 Implement payment transaction status tracking
 
 #### 1.5 Testing and Quality Assurance
 - 1.5.1 Conduct functional testing
@@ -282,6 +335,8 @@ The Work Breakdown Structure (WBS) divides the Smart Parking Platform project in
 - 1.5.3 Conduct security and performance testing
 - 1.5.4 Conduct user acceptance testing
 - 1.5.5 Resolve identified defects
+- 1.5.6 Test reservation cancellation and inventory updates
+- 1.5.7 Test parking search filters and payment status handling
 
 #### 1.6 Deployment and Project Completion
 - 1.6.1 Prepare production environment
@@ -289,6 +344,7 @@ The Work Breakdown Structure (WBS) divides the Smart Parking Platform project in
 - 1.6.3 Complete final system verification
 - 1.6.4 Prepare project documentation
 - 1.6.5 Complete project handoff and closure
+
 
 ## 5. Project Timeline and Gantt Chart
 
