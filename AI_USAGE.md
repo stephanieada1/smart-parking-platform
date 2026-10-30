@@ -144,3 +144,34 @@ I used ChatGPT to review my existing Smart Parking Platform documentation and id
 ### What I Kept vs. What I Changed
 
 I kept the original project scope, timeline, Gantt chart, Trello backlog, risk register, communication plan, resource plan, budget, and RACI matrix. I expanded the SRS by adding ten functional requirements and five use cases, bringing the total to 23 use cases. I also updated the WBS with ten additional tasks to reflect the new requirements. I reviewed the remaining sections and kept the existing information where no changes were necessary.
+
+
+## Homework 7
+
+### AI Tool Used
+
+ChatGPT
+
+### How AI Was Used
+
+I used ChatGPT to help develop the stakeholder analysis, Power–Interest Grid, team charter, and project charter for my Smart Parking Platform. I also used it to organize stakeholder engagement strategies, create and format both charter PDFs, and prepare a short video presentation script.
+
+### Prompts Used
+
+"hey chat, we're moving on to homework 7 for my smart parking platform. can you help me figure out how to organize the stakeholder analysis and both charters without changing everything i've already done?"
+
+"can you explain how the power-interest grid works and help me categorize the stakeholders i already identified for my project?"
+
+"help me organize the stakeholder analysis into a simple table with the four categories and explain how i should communicate with each group?"
+
+"can you help me create a team charter using the same nine fictional employees from my resource plan? i want to include their responsibilities, communication expectations, and how the team will work together."
+
+"now help me create a project charter using my existing project scope, objectives, 12-week timeline, and estimated budget of $175,725?"
+
+"can you create separate pdfs for the team charter and project charter? keep them simple with black text, times new roman style font, and regular tables like the ones in google docs. no unnecessary designs or footers."
+
+"help me prepare a short video script explaining the power-interest grid and both charters. make it sound natural and not too long."
+
+### What I Kept vs. What I Changed
+
+I kept the existing project scope, stakeholders, team roles, timeline, and budget from my previous assignments. I used the AI suggestions to organize the Power–Interest Grid and develop both charters. I also requested simpler PDF formatting and reviewed the new content to make sure it remained consistent with my project.
