@@ -2,8 +2,8 @@
 ### Semester Project
 
 **Company:** WE ARE Software Corp.  
-**Document Version:** 6.0  
-**Last Updated:** October 15, 2026
+**Document Version:** 7.0  
+**Last Updated:** October 29, 2026
 
 ---
 
@@ -20,6 +20,9 @@
 9. [Roles and Resources](#9-roles-and-resources)
 10. [Resource and Cost Plan](#10-resource-and-cost-plan)
 11. [RACI Matrix](#11-raci-matrix)
+12. [Stakeholder Analysis](#12-stakeholder-analysis)
+13. [Team Charter](#13-team-charter)
+14. [Project Charter](#14-project-charter)
 ---
 
 ## 1. Research: Existing Software Landscape
@@ -602,5 +605,190 @@ The matrix uses the nine fictional team members established in the Roles and Res
 - Consulted team members provide technical expertise, feedback, or support.
 - Informed team members receive relevant project updates and decisions.
 - The Project Manager oversees overall project delivery, while specialized team members lead their respective development activities.
+
+
+## 12. Stakeholder Analysis
+
+The stakeholder analysis identifies the individuals and groups who can influence or be affected by the Smart Parking Platform. A Power–Interest Grid is used to classify stakeholders based on their level of influence over the project and their interest in its outcome. This helps WE ARE Software Corp. determine how to communicate with and involve each stakeholder throughout development.
+
+### Power–Interest Grid
+
+| | Low Interest | High Interest |
+|---|---|---|
+| **High Power** | **Keep Satisfied:** City transportation departments | **Manage Closely:** Parking facility operators, project sponsor, project manager |
+| **Low Power** | **Monitor:** General public and potential future users | **Keep Informed:** Drivers and vehicle owners, system administrators, finance and billing personnel, third-party payment providers |
+
+### Stakeholder Engagement Strategies
+
+**Manage Closely (High Power, High Interest)**
+
+Parking facility operators have a strong influence on the platform because they provide requirements related to parking availability, pricing, reservations, and facility management. The project sponsor and project manager oversee major project decisions, resources, and overall delivery. These stakeholders will be involved in regular meetings, requirement reviews, and important project decisions.
+
+**Keep Satisfied (High Power, Low Interest)**
+
+City transportation departments may influence parking policies, local regulations, and implementation requirements. Although they may not participate in daily development activities, they should receive updates on major milestones and be consulted when decisions affect transportation policies or regulatory requirements.
+
+**Keep Informed (Low Power, High Interest)**
+
+Drivers and vehicle owners are the primary users of the platform and have a strong interest in its usability and functionality. System administrators, finance and billing personnel, and third-party payment providers also have an interest in the features and processes related to their responsibilities. These stakeholders will receive relevant updates and provide feedback during development and testing.
+
+**Monitor (Low Power, Low Interest)**
+
+The general public and potential future users may benefit from the platform but have limited involvement in its initial development. Their needs will be monitored as the project progresses, especially when considering future improvements or expansion.
+
+### Stakeholder Analysis Summary
+
+The Power–Interest Grid helps the project management team prioritize stakeholder engagement based on influence and interest. Stakeholders with greater influence and involvement will receive more frequent communication, while other groups will be informed or consulted as needed. The grid will be reviewed throughout the project because stakeholder priorities and influence may change over time.
+
+
+## 13. Team Charter
+
+The Team Charter establishes the responsibilities, expectations, communication practices, and working agreements for the Smart Parking Platform development team at WE ARE Software Corp. It is intended to keep all nine team members aligned throughout the 12-week project.
+
+### Team Purpose and Goals
+
+The team's primary goal is to plan and develop a reliable Smart Parking Platform that allows drivers to locate available parking, make reservations, process digital payments, and receive parking notifications. The team will also develop management features that allow parking facility operators to monitor occupancy, manage facility information, and access reporting tools.
+
+### Project Team Structure
+
+| Team Member | Role | Primary Responsibility |
+|---|---|---|
+| Jordan Mitchell | Project Manager | Oversees project planning, scheduling, stakeholder communication, risks, and overall delivery. |
+| Taylor Brooks | Mobile Developer | Develops the mobile application and its user-facing features. |
+| Alex Morgan | Web Developer | Develops the web application and its user and operator interfaces. |
+| Cameron Davis | Backend/API Developer | Develops backend services, APIs, and core parking system functionality. |
+| Riley Parker | Mapping/Location Specialist | Integrates mapping, navigation, and location-based services. |
+| Casey Williams | Payment Integration Specialist | Manages payment gateway integration and transaction functionality. |
+| Jamie Carter | QA/Testing Engineer | Coordinates functional, integration, security, and acceptance testing. |
+| Avery Thompson | UI/UX Designer | Designs user-friendly interfaces and supports the user experience. |
+| Morgan Lee | Database/Cloud Engineer | Manages database design, cloud infrastructure, and deployment support. |
+
+### Team Communication
+
+The project team will follow the communication practices established in Section 8 of the project document.
+
+- The project manager will conduct weekly project status meetings.
+- Mobile, web, and backend development teams will participate in daily stand-up meetings.
+- Mapping, payment integration, and QA teams will hold twice-weekly progress meetings.
+- Team members will report blockers, technical concerns, and schedule risks as soon as they are identified.
+- Important decisions and project updates will be documented and shared with the appropriate team members.
+
+### Team Working Agreements
+
+1. Team members will complete assigned tasks according to the agreed project schedule and communicate delays early.
+2. All team members will maintain accurate documentation for their assigned work.
+3. Development teams will coordinate when tasks depend on shared APIs, databases, or other system components.
+4. Team members will review and test their work before considering tasks complete.
+5. Everyone will communicate respectfully, provide constructive feedback, and support collaboration across teams.
+
+### Decision-Making and Conflict Resolution
+
+The project manager, Jordan Mitchell, will coordinate project-level decisions involving schedules, resources, priorities, and stakeholder requirements. Technical decisions will involve the relevant specialists, while major scope or budget changes will be reviewed with the appropriate project stakeholders.
+
+If disagreements arise, team members will first discuss the issue directly and attempt to reach a solution based on project requirements and technical evidence. Unresolved concerns will be escalated to the project manager for further review and a final project-level decision.
+
+### Team Charter Summary
+
+This charter establishes a shared understanding of how the Smart Parking Platform team will collaborate, communicate, and remain accountable. By following these agreements, the team can reduce misunderstandings, manage dependencies, and work toward completing the project within the planned 12-week timeline.
+
+
+## 14. Project Charter
+
+The Project Charter formally establishes the Smart Parking Platform project under WE ARE Software Corp. It summarizes the project's purpose, objectives, scope, major stakeholders, resources, timeline, and expected deliverables.
+
+### Project Overview
+
+| Project Information | Details |
+|---|---|
+| Project Name | Smart Parking Platform |
+| Organization | WE ARE Software Corp. |
+| Project Manager | Jordan Mitchell |
+| Project Duration | 12 weeks |
+| Estimated Project Budget | $175,725 |
+| Project Team | Nine fictional team members |
+| Project Status | Planning and development |
+
+### Project Purpose and Business Need
+
+The Smart Parking Platform was initiated to address the difficulties drivers experience when searching for available parking in busy urban areas. The project also aims to help parking facility operators manage parking availability, reservations, pricing, and facility utilization more effectively.
+
+WE ARE Software Corp. will develop a centralized web and mobile platform that connects drivers with real-time parking information while providing parking operators with administrative and reporting tools.
+
+### Project Objectives
+
+1. Develop a web and mobile platform that allows drivers to search for available parking and view locations on an interactive map.
+2. Provide parking reservation, digital payment, navigation assistance, and notification features.
+3. Enable parking facility operators to manage facility information, pricing, occupancy, and active reservations.
+4. Integrate external mapping, navigation, and payment processing services.
+5. Implement appropriate security controls and conduct functional, integration, performance, and user acceptance testing.
+6. Complete the planned project activities within the 12-week development timeline.
+
+### Project Scope
+
+**In Scope:**
+
+- User registration and authentication
+- Real-time parking availability and interactive maps
+- Parking search, filters, and reservations
+- Digital payments, transaction tracking, and receipts
+- Navigation assistance and parking notifications
+- Reservation history and cancellation
+- Parking operator dashboard and facility management
+- Occupancy monitoring, pricing management, and analytics
+- Third-party mapping and payment integrations
+- Security, testing, deployment, and project documentation
+
+**Scope Boundaries:**
+
+The project focuses on developing the Smart Parking Platform and integrating the external services needed for its planned functionality. Physical parking facility construction, installation of new parking infrastructure, and unrelated transportation systems are not included in the current development plan.
+
+### Major Project Milestones
+
+| Project Phase | Planned Timeline |
+|---|---|
+| Project Planning and Requirements | Weeks 1–2 |
+| User Application Development | Weeks 3–6 |
+| Parking Operator System | Weeks 4–7 |
+| Backend and System Integrations | Weeks 3–8 |
+| Testing and Quality Assurance | Weeks 7–10 |
+| Deployment and Project Completion | Weeks 11–12 |
+
+### Key Stakeholders
+
+The project's primary stakeholders include parking facility operators, drivers and vehicle owners, city transportation departments, system administrators, finance and billing personnel, third-party payment providers, and the project management team.
+
+Stakeholder engagement will be guided by the Power–Interest Grid established in Section 12.
+
+### Project Resources and Budget
+
+The project will be supported by nine fictional professionals responsible for project management, mobile development, web development, backend services, mapping, payment integration, quality assurance, UI/UX design, and cloud infrastructure.
+
+The estimated total project budget is $175,725, including $154,200 in labor costs and a 10% contingency reserve. Detailed resource allocations and cost estimates are documented in Sections 9 and 10.
+
+### Project Constraints and Assumptions
+
+- The project must be planned within the established 12-week semester timeline.
+- WE ARE Software Corp. has unlimited theoretical resources and budget for the semester project, but a realistic cost estimate has been developed for planning purposes.
+- The platform depends on external mapping, navigation, and payment services.
+- Security, user privacy, applicable regulations, and system reliability must be considered throughout development.
+- Development teams must coordinate shared technical dependencies to avoid unnecessary delays.
+
+### Project Risks
+
+Major project risks include inaccurate parking availability data, third-party API failures, payment integration issues, security vulnerabilities, development delays, and unexpected testing requirements.
+
+These risks will be monitored and managed through the Risk Register established in Section 7.
+
+### Project Deliverables and Success Criteria
+
+The project's expected deliverables include the planned web and mobile application features, backend services, external integrations, operator management tools, testing results, and final project documentation.
+
+Project success will be evaluated based on completion of the approved requirements, successful testing of critical features, effective coordination among development teams, and delivery within the planned project timeline.
+
+### Project Charter Summary
+
+This charter provides a shared understanding of the Smart Parking Platform's objectives, scope, stakeholders, resources, and delivery expectations. It will guide project decisions and help ensure that development activities remain aligned with the project's original purpose.
+
+
 
 **WE ARE Software Corp. | Smart Parking Platform | Semester Project**
