@@ -172,6 +172,34 @@ I used ChatGPT to help develop the stakeholder analysis, Power–Interest Grid, 
 
 "help me prepare a short video script explaining the power-interest grid and both charters. make it sound natural and not too long."
 
+## Homework 8
+
+### AI Tool Used
+
+ChatGPT
+
+### How AI Was Used
+
+I used ChatGPT to help organize and draft the project closure report for my Smart Parking Platform. I also used it to research the Amazon Fire Phone failure, develop a separate post-mortem report, and prepare a short video presentation script.
+
+### Prompts Used
+
+"hey chat, im on homework 8 now can you help me organize my project closure report based on everything i've already done for my smart parking platform?"
+
+"how do i explain the achievements, shortfalls, and lessons learned without making it sound like the platform has already been fully developed?"
+
+"can you help me write recommendations for future projects based on the challenges and risks i identified throughout the semester?"
+
+"i need to research a failed technology projects. what are some interesting examples i could use?"
+
+"okay i like the amazon fire phone option...let's use the amazon fire phone. can you help me research why it failed and organize the findings into a post-mortem report?"
+
+"can you include reliable sources and explain what could have been done differently from a project management perspective?"
+
+### What I Kept vs. What I Changed
+
+I kept the existing project requirements, scope, timeline, budget, and other documentation from my previous assignments. I used the AI suggestions to develop the closure report and organize the Amazon Fire Phone post-mortem analysis. I reviewed the content to keep the closure report consistent with my project and included references for the failed technology research.
+
 ### What I Kept vs. What I Changed
 
 I kept the existing project scope, stakeholders, team roles, timeline, and budget from my previous assignments. I used the AI suggestions to organize the Power–Interest Grid and develop both charters. I also requested simpler PDF formatting and reviewed the new content to make sure it remained consistent with my project.
