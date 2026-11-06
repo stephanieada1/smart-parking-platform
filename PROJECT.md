@@ -2,8 +2,8 @@
 ### Semester Project
 
 **Company:** WE ARE Software Corp.  
-**Document Version:** 7.0  
-**Last Updated:** October 29, 2026
+**Document Version:** 8.0  
+**Last Updated:** November 5, 2026
 
 ---
 
@@ -22,7 +22,9 @@
 11. [RACI Matrix](#11-raci-matrix)
 12. [Stakeholder Analysis](#12-stakeholder-analysis)
 13. [Team Charter](#13-team-charter)
-14. [Project Charter](#14-project-charter)
+14. [Project Charter](#14-project-charter) 
+15. [Project Closure Report (Internal)](#15-project-closure-report-internal)
+
 ---
 
 ## 1. Research: Existing Software Landscape
@@ -789,6 +791,59 @@ Project success will be evaluated based on completion of the approved requiremen
 
 This charter provides a shared understanding of the Smart Parking Platform's objectives, scope, stakeholders, resources, and delivery expectations. It will guide project decisions and help ensure that development activities remain aligned with the project's original purpose.
 
+---
 
+## 15. Project Closure Report (Internal)
+
+**Project Name:** Smart Parking Platform  
+**Organization:** WE ARE Software Corp.  
+**Project Manager:** Jordan Mitchell  
+**Project Duration:** 12 Weeks  
+**Estimated Budget:** $175,725  
+**Report Status:** Internal - Draft
+
+### Executive Summary
+
+The Smart Parking Platform project was developed as a semester-long software project for WE ARE Software Corp. Its purpose is to provide drivers with an easier way to locate, reserve, and pay for available parking while helping parking facility operators manage their facilities more efficiently.
+
+Throughout the project, the team established the system requirements, project scope, development schedule, resource plan, budget, risk management strategies, and stakeholder communication plans. This closure report reviews the project's planning achievements, identifies remaining limitations, and provides recommendations for future development.
+
+### Achievements and Shortfalls
+
+**Achievements:**
+
+- Established a clear project vision, scope, and software requirements.
+- Developed 23 use cases covering the platform's main functions.
+- Created a Work Breakdown Structure and a 12-week project schedule.
+- Organized the product backlog and Sprint 1 priorities using Trello.
+- Developed a risk register, communication plan, resource plan, and RACI matrix.
+- Prepared an estimated project budget of $175,725.
+- Completed the stakeholder analysis, Power-Interest Grid, team charter, and project charter.
+
+**Shortfalls:**
+
+- The platform has not yet been fully developed, tested, or deployed.
+- Real-time parking availability and third-party integrations still require implementation and validation.
+- The estimated project costs and timeline have not been verified through actual development.
+- Formal user acceptance testing and stakeholder approval have not yet been completed.
+
+### Lessons Learned
+
+One important lesson from this project was the value of establishing clear requirements before planning development activities. Developing the WBS, project schedule, and resource plan helped demonstrate how different tasks and team responsibilities depend on one another.
+
+The project also highlighted the importance of identifying risks early, especially when relying on external mapping and payment services. Maintaining consistent documentation throughout the semester helped keep the project scope, budget, and stakeholder expectations aligned.
+
+### Recommendations for Future Projects
+
+- Begin stakeholder engagement early to better understand user and operator needs.
+- Develop and test core features before introducing more advanced functionality.
+- Allow additional time for third-party integrations, security testing, and troubleshooting.
+- Review project estimates regularly and adjust schedules when necessary.
+- Conduct user acceptance testing before deployment to identify usability and performance issues.
+- Maintain updated project documentation and communication throughout development.
+
+### Closure Status
+
+The Smart Parking Platform has completed its planned project documentation and management deliverables for this stage. However, software implementation, testing, deployment, and formal acceptance remain outstanding. The project is therefore considered ready for future development rather than formally closed as a completed software product.
 
 **WE ARE Software Corp. | Smart Parking Platform | Semester Project**
