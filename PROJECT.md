@@ -430,7 +430,7 @@ The Smart Parking Platform project backlog has been organized into four individu
 
 ### Sprint 2, 3, and 4 Trello Backlogs
 
-
+![Smart Parking Platform Sprint Backlogs](smart-parking-sprints-2to4.png)
 
 *Figure 4. Individual Sprint 2, Sprint 3, and Sprint 4 backlogs organized in Trello.*
 
