@@ -2,8 +2,8 @@
 ### Semester Project
 
 **Company:** WE ARE Software Corp.  
-**Document Version:** 8.0  
-**Last Updated:** November 5, 2026
+**Document Version:** 9.0  
+**Last Updated:** November 19, 2026
 
 ---
 
@@ -371,6 +371,12 @@ The following draft timeline outlines the planned sequence of activities for the
 ![Smart Parking Platform Project Timeline](smart-parking-gantt-chart.png)
 
 *Figure 1. Smart Parking Platform Project Timeline.*
+
+### Gantt Chart
+
+![Smart Parking Platform Updated Gantt Chart](a_clean_excel_style_infographic_with_the_same_layo.png)
+
+*Figure 1. Updated Smart Parking Platform Gantt chart reflecting the expanded Work Breakdown Structure and 12-week project schedule.*
 
 ## 6. Product Backlog and Sprint 1
 
@@ -845,5 +851,15 @@ The project also highlighted the importance of identifying risks early, especial
 ### Closure Status
 
 The Smart Parking Platform has completed its planned project documentation and management deliverables for this stage. However, software implementation, testing, deployment, and formal acceptance remain outstanding. The project is therefore considered ready for future development rather than formally closed as a completed software product.
+
+
+### Proposed Post-Project Maintenance Contract
+
+WE ARE Software Corp. proposes a 12-month maintenance agreement following the successful development, testing, deployment, and formal acceptance of the Smart Parking Platform. The agreement would provide ongoing technical support, security updates, bug fixes, system monitoring, and maintenance of third-party mapping and payment integrations.
+
+The maintenance team would also monitor parking availability accuracy, application performance, and reported user issues. Regular maintenance reviews would help identify improvements and ensure the platform continues operating reliably for drivers and parking facility operators.
+
+The contract would begin only after the platform is approved for deployment. Maintenance costs and service-level expectations would be negotiated separately from the existing $175,725 development budget.
+
 
 **WE ARE Software Corp. | Smart Parking Platform | Semester Project**
