@@ -374,7 +374,7 @@ The following draft timeline outlines the planned sequence of activities for the
 
 ### Gantt Chart
 
-![Smart Parking Platform Updated Gantt Chart](a_clean_excel_style_infographic_with_the_same_layo.png)
+![Smart Parking Platform Updated Gantt Chart](Smart%20Parking%20Project%20Timeline.png)
 
 *Figure 1. Updated Smart Parking Platform Gantt chart reflecting the expanded Work Breakdown Structure and 12-week project schedule.*
 
