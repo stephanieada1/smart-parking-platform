@@ -416,6 +416,24 @@ Sprint 1 focuses on establishing the operator backend and core functionality nee
 
 *Figure 3. Sprint 1 backlog focused on operator backend and core platform functionality.*
 
+### Additional Sprint Backlogs
+
+The Smart Parking Platform project backlog has been organized into four individual Sprint backlogs in Trello. Each sprint focuses on a specific group of project activities while maintaining the existing project requirements and 12-week timeline.
+
+| Sprint | Planned Weeks | Focus | Number of Items |
+|---|---|---|---:|
+| Sprint 1 | Weeks 1–3 | Operator backend and core functionality | 7 |
+| Sprint 2 | Weeks 4–6 | User application, parking search, reservations, and payments | 7 |
+| Sprint 3 | Weeks 7–9 | Operator reporting and analytics | 7 |
+| Sprint 4 | Weeks 10–12 | Testing, deployment, and final documentation | 6 |
+| **Total** | | | **27** |
+
+### Sprint 2, 3, and 4 Trello Backlogs
+
+
+
+*Figure 4. Individual Sprint 2, Sprint 3, and Sprint 4 backlogs organized in Trello.*
+
 ## 7. Risk Management
 
 Risk management is important to the Smart Parking Platform because technical, schedule, financial, and people-related issues could affect the successful completion of the project. The following risks have been identified so they can be monitored and addressed throughout the project lifecycle.
