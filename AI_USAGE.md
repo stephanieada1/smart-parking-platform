@@ -200,6 +200,30 @@ I used ChatGPT to help organize and draft the project closure report for my Smar
 
 I kept the existing project requirements, scope, timeline, budget, and other documentation from my previous assignments. I used the AI suggestions to develop the closure report and organize the Amazon Fire Phone post-mortem analysis. I reviewed the content to keep the closure report consistent with my project and included references for the failed technology research.
 
+## Homework 9
+
+### AI Tool Used
+
+ChatGPT
+
+### How AI Was Used
+
+I used ChatGPT to review my Smart Parking Platform documentation and determine which areas needed updating. I also used it to help revise my Gantt chart, organize the remaining Sprint backlogs in Trello, and expand my project closure report with a post-project maintenance proposal.
+
+### Prompts Used
+
+"hey chat, i'm on homework 9 now and it's basically a final review of everything i've worked on so far. can you help me figure out what actually needs updating from my work? i've already completed most of my project planning sections, including the requirements, wbs, budget, and risk management. what should i focus on improving without changing everything?"
+
+"my original gantt chart uses a 12-week schedule, but i've added more tasks to my wbs since then. do i need to update the chart?"
+
+"can you help me create an updated gantt chart with the additional tasks while keeping the same timeline and simple excel formatting?"
+
+"the updated chart looks a little crowded in the middle. can you fix the spacing and make it easier to read?"
+
+"i already have 45 product backlog items and a sprint 1 backlog in trello. how should i organize the remaining individual sprint backlogs?"
+
+"i need to expand my project closure report with a proposal for ongoing maintenance. can you help me write something brief that fits my smart parking platform?"
+
 ### What I Kept vs. What I Changed
 
-I kept the existing project scope, stakeholders, team roles, timeline, and budget from my previous assignments. I used the AI suggestions to organize the Power–Interest Grid and develop both charters. I also requested simpler PDF formatting and reviewed the new content to make sure it remained consistent with my project.
+I kept my existing project requirements, WBS, budget, risk register, communication plan, resource allocations, RACI matrix, and charters. I updated the Gantt chart to reflect additional project tasks, organized Sprint 2–4 backlogs in Trello, and added a maintenance proposal to my closure report. I also adjusted the chart formatting and updated the supporting images in my project documentation.
